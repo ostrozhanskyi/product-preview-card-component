@@ -35,7 +35,8 @@ Screenshot was made by [Screenshot Capture](https://chromewebstore.google.com/de
 
 ### What I learned
 
-
+Using <button> tag for non-navigational buttons are preferred.
+You can add svg to your HTML in a couple of different ways but not all of them support styling afterwards. 
 
 
 ### Useful resources
